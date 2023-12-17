@@ -1,2 +1,7 @@
 env/
 .env
+files/
+.cache/
+.streamlit
+cache.db
+movies.sqlite
